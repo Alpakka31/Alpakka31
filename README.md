@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm currently learning...
-- Ruby  [![Ruby](https://cdn.emojidex.com/emoji/px16/Ruby.png "Ruby") ](https://www.ruby-lang.org)
+- 🇨‌➕➕
 
 <!--
 **Alpakka31/Alpakka31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
