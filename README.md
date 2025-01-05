@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm currently learning...
-- Java
+- Nothing
 
 <!--
 **Alpakka31/Alpakka31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
